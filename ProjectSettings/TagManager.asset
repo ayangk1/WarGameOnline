@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tile
+  - obstacle
+  - player
+  - born
+  - enemy
+  - range
+  - weapon
+  - box
+  - canAttackEnemyTile
+  - playerTile
+  - skill
+  - golem
+  - boxTile
+  - golemTile
+  - canTouch
+  - pos
+  - enemyBorn
+  - playerBorn
+  - canMove
+  - canDispose
+  - notTouch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GameUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
